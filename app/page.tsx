@@ -66,7 +66,7 @@ export default function Home() {
                 <div className="space-y-2">
                   <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">About Me</h2>
                   <p className="max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                    Hi, I'm Justyn Williams, a certified personal trainer with over 10 years of experience. I'm passionate about
+                    Hi, I&apos;m Justyn Williams, a certified personal trainer with over 10 years of experience. I&apos;m passionate about
                     helping people achieve their fitness goals and live healthier lives.
                   </p>
                 </div>
